@@ -1,1 +1,2 @@
-# react-query
+# TanStack (React-query) + TypeScript + Vite
+
