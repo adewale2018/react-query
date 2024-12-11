@@ -1,0 +1,85 @@
+{
+  "hash": "79e43dc1",
+  "configHash": "eb152ebf",
+  "lockfileHash": "f37afbbe",
+  "browserHash": "e6963e8f",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "23ca6c41",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "9e597fbb",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "47d29747",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "adb2a62e",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "14c25eac",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "56d34b96",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "0c328156",
+      "needsInterop": false
+    },
+    "@tanstack/react-query-devtools": {
+      "src": "../../node_modules/@tanstack/react-query-devtools/build/modern/index.js",
+      "file": "@tanstack_react-query-devtools.js",
+      "fileHash": "fdfde239",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "E3YREIG7-H57RZ3ZH": {
+      "file": "E3YREIG7-H57RZ3ZH.js"
+    },
+    "LFXA4CB4-WMOYIEKJ": {
+      "file": "LFXA4CB4-WMOYIEKJ.js"
+    },
+    "chunk-D7MI7ARY": {
+      "file": "chunk-D7MI7ARY.js"
+    },
+    "chunk-TIYQVLHI": {
+      "file": "chunk-TIYQVLHI.js"
+    },
+    "chunk-M4LH6E6O": {
+      "file": "chunk-M4LH6E6O.js"
+    },
+    "chunk-2DGYIDMV": {
+      "file": "chunk-2DGYIDMV.js"
+    },
+    "chunk-C5YXCFQR": {
+      "file": "chunk-C5YXCFQR.js"
+    },
+    "chunk-2CLD7BNN": {
+      "file": "chunk-2CLD7BNN.js"
+    },
+    "chunk-WOOG5QLI": {
+      "file": "chunk-WOOG5QLI.js"
+    }
+  }
+}
