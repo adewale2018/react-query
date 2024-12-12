@@ -8,10 +8,12 @@ import {
 } from "@/components/ui/card";
 
 import { PostsProps } from "./Posts";
+import { useNavigate } from "react-router";
 
-const Post = ({ title, body }: PostsProps) => {
+const Post = ({ title, body, id }: PostsProps) => {
+  const navigate = useNavigate();
   return (
-    <Card className="cursor-pointer">
+    <Card onClick={() => navigate(`/post-details/${id}`)}  className="cursor-pointer">
       <CardHeader>
         <CardTitle className='uppercase text-sky-700 font-mono font-light'>{title}</CardTitle>
       </CardHeader>
