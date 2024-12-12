@@ -23,7 +23,6 @@ const Posts = () => {
         setLoading(false);
         setPosts(res.data);
       }
-      console.log("RES", res);
     } catch (error) {
       setError(error);
     } finally {
